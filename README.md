@@ -13,7 +13,6 @@ Aquest es el meu repositori per a la tasca 2 de M10, en el qual estem practicant
 - Python 
 - Java
 - JavaScript
-- C+
 
 ## 🍄WELCOME TO THE TEEMO SUPREMACY 🍄
 ![Image](https://images4.alphacoders.com/600/600528.png)
