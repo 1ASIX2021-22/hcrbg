@@ -8,11 +8,12 @@ Aquest es el meu repositori per a la tasca 2 de M10, en el qual estem practicant
 [Instagram](https://www.instagram.com/) |
 [Tumblr](https://www.tumblr.com/)
 
-![Image](https://images4.alphacoders.com/600/600528.png)
-
 ### :electron: Llenguatges de programació que conec :electron:	
 - C++
 - Python 
 - Java
 - JavaScript
 - C+
+
+## 🍄WELCOME TO THE TEEMO SUPREMACY 🍄
+![Image](https://images4.alphacoders.com/600/600528.png)
